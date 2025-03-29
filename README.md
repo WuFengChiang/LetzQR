@@ -46,6 +46,11 @@ LetzQR eliminates the frustration of traditional information sharing, making dig
 
 LetzQR values your privacy. All data remains on your device and is never uploaded or shared with servers.
 
+
+# Support and Contact
+
+If you have any questions or suggestions, please contact: wufeng.chiang@gmail.com
+
 ---
 
 © 2025 WuuFone. All rights reserved.
@@ -101,6 +106,10 @@ LetzQR 消除了傳統信息分享的繁瑣步驟，讓數位互動更加流暢�
 ## 隱私說明
 
 LetzQR 完全尊重使用者隱私，所有數據僅儲存在本地設備上，不會上傳或共享到任何伺服器。
+
+# Support and Contact
+
+If you have any questions or suggestions, please contact: wufeng.chiang@gmail.com
 
 ---
 
